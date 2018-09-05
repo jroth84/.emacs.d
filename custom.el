@@ -19,7 +19,7 @@
      ("marmalade" . "https://marmalade-repo.org/packages/"))))
  '(package-selected-packages
    (quote
-    (epc auto-complete flx flycheck counsel swiper ace-window ansible elpy org-bullets which-key try use-package yasnippet find-file-in-project org-pomodoro ido-completing-read+ typopunct smex smartparens simple-httpd scpaste projectile paredit ox-twbs ox-rst ox-gfm markdown-mode magit latex-extra jedi ido-vertical-mode ido-ubiquitous ido-at-point idle-highlight-mode guide-key flymake-python-pyflakes flycheck-pos-tip flx-ido dash-functional dash-at-point better-defaults auto-complete-rst)))
+    (yaml-mode terraform-mode dash epc auto-complete flx flycheck counsel swiper ace-window ansible elpy org-bullets which-key try use-package yasnippet find-file-in-project org-pomodoro ido-completing-read+ typopunct smex smartparens simple-httpd scpaste projectile paredit ox-twbs ox-rst ox-gfm markdown-mode magit latex-extra jedi ido-vertical-mode ido-ubiquitous ido-at-point idle-highlight-mode guide-key flymake-python-pyflakes flycheck-pos-tip flx-ido dash-functional dash-at-point better-defaults auto-complete-rst)))
  '(show-paren-mode t)
  '(tool-bar-mode nil))
 (custom-set-faces
