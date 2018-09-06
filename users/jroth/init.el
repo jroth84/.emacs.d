@@ -44,7 +44,7 @@
 
 ;; jroth 8.19.2016 Trying out ox-rst.el for translation of org-mode syntax
 ;; to restructuredText
-(require 'ox-rst)
+;;(require 'ox-rst)
 
 ;; jroth 3.19.2018 Following added from Mike Zamansky video watching
 ;;
